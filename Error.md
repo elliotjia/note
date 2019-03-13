@@ -23,3 +23,5 @@ gpg: key E52529D4: public key "MongoDB 4.0 Release Signing Key <packaging@mongod
 gpg: Total number processed: 1
 gpg:               imported: 1  (RSA: 1)
 ```
+
+run sudo apt-get update
