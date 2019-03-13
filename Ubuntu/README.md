@@ -6,7 +6,7 @@
  sudo cp /etc/apt/sources.list /etc/apt/sources.list.bakcup
  ```
  
- - 2. 编辑apt源的文件
+ - 2.编辑apt源的文件
  
  ``` 
  sudo vim /etc/apt/sources.list
@@ -27,7 +27,7 @@
     deb-src http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multivers
  ```
  
-- 3. 执行
+- 3.执行下面命令
 
 ```
 sudo apt-get update
